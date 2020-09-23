@@ -1,0 +1,51 @@
+body{
+        margin: 0;
+        padding: 0;
+        background-color: moccasin;
+        
+    }
+    .square{
+
+            height: 200px;
+            width: 200px;
+            background: rgb(28, 25, 175);
+            margin:30px ;            
+    }
+
+    .rectangle{
+            width: 200px;
+            height: 100px;
+            background: gold;
+    }
+    .circle{
+        height: 200px;
+        width: 200px;
+        background: lime;
+        border-radius: 50%;
+        margin:30px ;
+    }
+
+    .oval{
+        height: 80px;
+        width: 160px;
+        border-radius:50%;
+        background-color: maroon;
+        margin:10px ;
+        
+
+
+    }
+
+    .uptriangle{
+            width: 0;
+            height; 0;
+            border-left: 80px solid transparent ;
+            border-right: 80px solid transparent;
+            border-bottom: 160px solid red;
+            margin:20px;
+
+
+
+    }
+
+
